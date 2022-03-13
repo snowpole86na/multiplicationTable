@@ -66217,7 +66217,7 @@ H(a,b){var s,r,q,p,o=null
 try{s=t.Y3.a(A.ld(b,t.X).b.b)
 r=A.uk(A.cs(s.a+" \ud559\uc0dd \uc751\uc6d0\ud569\ub2c8\ub2e4!",o,o,o,o,o,o))
 q=t.j
-q=A.jm(A.b([B.NX,A.FR(new A.a9K(),$.jb().kE(),q),B.uS,B.NZ,A.FR(new A.a9L(),$.jb().kE(),q),B.uS,B.O_,A.FR(new A.a9M(),$.jb().kE(),q),B.Jk,A.FR(new A.a9N(s),$.jb().nW("highest_time_record",$.wX),t.N)],t.p),B.Y,B.bu,B.Z)
+q=A.jm(A.b([B.O1,A.FR(new A.a9K(),$.jb().kE(),q),B.uS,B.NX,A.FR(new A.a9L(),$.jb().kE(),q),B.uS,B.O3,A.FR(new A.a9M(),$.jb().kE(),q),B.Jk,A.FR(new A.a9N(s),$.jb().nW("highest_time_record",$.wX),t.N)],t.p),B.Y,B.bu,B.Z)
 r=A.lr(r,A.cZ(o,A.hc(new A.Jv(!0,new A.dk(B.By,q,o),o),o,o),B.AC,o,o,o,o,o,1/0))
 return r}catch(p){r=A.lr(A.uk(B.l_),A.cZ(o,A.hc(A.jq(B.hk,new A.a9O(b),o),o,o),B.hb,o,o,o,o,o,o))
 return r}}}
@@ -66254,7 +66254,7 @@ A.pX.prototype={
 H(a,b){var s,r,q,p=null,o=b.R(t.w).f.a
 try{s=t.rI.a(A.ld(b,t.X).b.b)
 r=A.uk(A.cs(s.a+" \ud559\uc0dd \ud658\uc601\ud569\ub2c8\ub2e4.",p,p,p,p,p,p))
-r=A.lr(r,A.cZ(p,o.b>=650?A.jm(A.b([A.cs("< \ubb38\uc81c \uc218 : "+B.e.i(20)+" \uac1c >",p,p,p,B.N6,p,p),B.Jj,A.jq(B.O3,new A.a_a(b,s),A.VE(p,p,p,p,p,p,p,p,p,p,B.mo,p,p,p,p,p,B.vd,p)),B.Jl,A.jq(B.O0,new A.a_b(b,s),A.VE(p,p,p,p,p,p,p,p,p,p,B.mo,p,p,p,p,p,B.vd,p))],t.p),B.Y,B.bu,B.Z):B.f9,B.rY,p,p,p,p,p,1/0))
+r=A.lr(r,A.cZ(p,o.b>=650?A.jm(A.b([A.cs("< \ubb38\uc81c \uc218 : "+B.e.i(20)+" \uac1c >",p,p,p,B.N6,p,p),B.Jj,A.jq(B.O2,new A.a_a(b,s),A.VE(p,p,p,p,p,p,p,p,p,p,B.mo,p,p,p,p,p,B.vd,p)),B.Jl,A.jq(B.NZ,new A.a_b(b,s),A.VE(p,p,p,p,p,p,p,p,p,p,B.mo,p,p,p,p,p,B.vd,p))],t.p),B.Y,B.bu,B.Z):B.f9,B.rY,p,p,p,p,p,1/0))
 return r}catch(q){r=A.lr(A.uk(B.l_),A.cZ(p,A.hc(A.jq(B.hk,new A.a_c(b),p),p,p),B.hb,p,p,p,p,p,p))
 return r}}}
 A.a_a.prototype={
@@ -66310,7 +66310,7 @@ case 1:return A.Q(q,r)}})
 return A.R($async$qO,r)},
 l(a){this.aY(0)},
 H(a,b){var s=this,r=s.e,q=s.d,p=A.a9(q).j("av<1,hk<l>>"),o=t.p
-o=A.jm(A.b([A.lq(A.b([B.Jh,A.akH(A.ag(new A.av(q,new A.ZI(),p),!0,p.j("b6.E")),new A.ZJ(s,b),r,t.S),B.Jg,A.FR(new A.ZK(s),s.qO(A.a(s.x,"future"),s.e-1),t.j)],o),B.Y,B.ct,B.Z),A.ayJ(!0,s.z,B.C6,new A.ZL(s,b),B.kY,new A.ZM()),new A.dk(B.Bp,A.jq(B.O1,new A.ZN(s,b),null),null)],o),B.m7,B.ct,B.Z)
+o=A.jm(A.b([A.lq(A.b([B.Jh,A.akH(A.ag(new A.av(q,new A.ZI(),p),!0,p.j("b6.E")),new A.ZJ(s,b),r,t.S),B.Jg,A.FR(new A.ZK(s),s.qO(A.a(s.x,"future"),s.e-1),t.j)],o),B.Y,B.ct,B.Z),A.ayJ(!0,s.z,B.C6,new A.ZL(s,b),B.kY,new A.ZM()),new A.dk(B.Bp,A.jq(B.O_,new A.ZN(s,b),null),null)],o),B.m7,B.ct,B.Z)
 return A.eK(new A.vK(o,B.lz,s.y),null,200)}}
 A.ZI.prototype={
 $1(a){var s=null
@@ -71523,8 +71523,8 @@ B.tk=new A.xe(1,"landscape")
 B.Hn=new A.xf(null)
 B.R1=new A.Hp(1,"clip")
 B.eB=new A.q(!0,null,null,null,null,null,30,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.O2=new A.e3("\ub204\ub974\uba74 3\ucd08 \ub4a4 \uc2dc\uc791",null,B.eB,null,null,null,null,null,null)
-B.Ho=new A.dk(B.mm,B.O2,null)
+B.O0=new A.e3("\ub204\ub974\uba74 3\ucd08 \ub4a4 \uc2dc\uc791",null,B.eB,null,null,null,null,null,null)
+B.Ho=new A.dk(B.mm,B.O0,null)
 B.Bu=new A.aL(18,18,18,18)
 B.vf=new A.e3("\ub3cc\uc544\uac00\uae30",null,B.eB,null,null,null,null,null,null)
 B.hk=new A.dk(B.Bu,B.vf,null)
@@ -72066,12 +72066,12 @@ B.Lu=new A.q(!0,B.k,null,".SF UI Text",null,null,null,null,null,null,null,null,n
 B.NV=new A.dR(B.KU,B.MA,B.MN,B.Nt,B.M9,B.Lg,B.MH,B.Mc,B.Mk,B.Na,B.Lq,B.Ny,B.M4,B.N1,B.Lu)
 B.ve=new A.z3(1,"longestLine")
 B.l_=new A.e3("\uc811\uc18d\ud574\uc81c",null,null,null,null,null,null,null,null)
-B.NX=new A.e3("\ud559\uad50 \uc804\uccb4 1\ub4f1 \uae30\ub85d:",null,B.bD,null,null,null,null,null,null)
-B.NZ=new A.e3("\ud559\uad50 \uc804\uccb4 2\ub4f1 \uae30\ub85d:",null,B.bD,null,null,null,null,null,null)
-B.O_=new A.e3("\ud559\uad50 \uc804\uccb4 3\ub4f1 \uae30\ub85d:",null,B.bD,null,null,null,null,null,null)
-B.O0=new A.e3("\uae30\ub85d\ubcf4\uae30",null,null,null,null,null,null,null,null)
-B.O1=new A.e3("\uc785\uc7a5\ud558\uae30",null,null,null,null,null,null,null,null)
-B.O3=new A.e3("\ub3c4\uc804\ud558\uae30",null,null,null,null,null,null,null,null)
+B.NX=new A.e3("\uc804\uccb4 2\ub4f1 \uae30\ub85d:",null,B.bD,null,null,null,null,null,null)
+B.NZ=new A.e3("\uae30\ub85d\ubcf4\uae30",null,null,null,null,null,null,null,null)
+B.O_=new A.e3("\uc785\uc7a5\ud558\uae30",null,null,null,null,null,null,null,null)
+B.O1=new A.e3("\uc804\uccb4 1\ub4f1 \uae30\ub85d:",null,B.bD,null,null,null,null,null,null)
+B.O2=new A.e3("\ub3c4\uc804\ud558\uae30",null,null,null,null,null,null,null,null)
+B.O3=new A.e3("\uc804\uccb4 3\ub4f1 \uae30\ub85d:",null,B.bD,null,null,null,null,null,null)
 B.R3=new A.Kw(0,"system")
 B.l0=new A.z4(0)
 B.O4=new A.z4(0.5)
