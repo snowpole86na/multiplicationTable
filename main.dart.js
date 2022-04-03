@@ -66980,7 +66980,7 @@ try{s=t.rI.a(A.iF(b,t.X).b.b)
 r=A.c1(s.a+" \ud559\uc0dd \ud658\uc601\ud569\ub2c8\ub2e4.",o,o,o,o,o,o)
 r=A.uC(A.mZ(o,B.Cp,o,new A.a_Y(b),o),r)
 q=A.bK(B.dO,A.Y9(A.YV("assets/images/kids.png",B.fI,150,o),"imageHero"),B.eC,o,o,150,o,o,1/0)
-r=A.hX(r,o,A.bK(o,n.b>=650?A.eJ(A.b([A.c1("< \ubb38\uc81c \uc218 : "+B.e.i(20)+" \uac1c >",o,o,o,B.NB,o,o),B.JT,A.cY(B.OE,new A.a_Z(b,s),A.vN(o,o,o,o,o,o,o,o,o,o,B.fE,o,o,o,o,o,B.lg,o)),B.cV,A.cY(B.Oy,new A.a0_(b,s),A.vN(o,o,o,o,o,o,o,o,o,o,B.fE,o,o,o,o,o,B.lg,o)),B.cV,A.cY(B.Ov,new A.a00(b,s),A.vN(o,o,o,o,o,o,o,o,o,o,B.fE,o,o,o,o,o,B.lg,o))],t.p),B.y,B.ag,B.z):B.fl,B.eC,o,o,o,o,o,1/0),q,o)
+r=A.hX(r,o,A.bK(o,n.b>=650?A.eJ(A.b([A.c1("< \ubb38\uc81c \uc218 : "+B.e.i(30)+" \uac1c >",o,o,o,B.NB,o,o),B.JT,A.cY(B.OE,new A.a_Z(b,s),A.vN(o,o,o,o,o,o,o,o,o,o,B.fE,o,o,o,o,o,B.lg,o)),B.cV,A.cY(B.Oy,new A.a0_(b,s),A.vN(o,o,o,o,o,o,o,o,o,o,B.fE,o,o,o,o,o,B.lg,o)),B.cV,A.cY(B.Ov,new A.a00(b,s),A.vN(o,o,o,o,o,o,o,o,o,o,B.fE,o,o,o,o,o,B.lg,o))],t.p),B.y,B.ag,B.z):B.fl,B.eC,o,o,o,o,o,1/0),q,o)
 return new A.rK(r,new A.a01(),o)}catch(p){r=A.hX(A.uC(o,B.lh),o,A.bK(o,A.er(A.cY(B.hD,new A.a02(b),o),o,o),B.ht,o,o,o,o,o,o),o,o)
 return r}}}
 A.a01.prototype={
@@ -67488,7 +67488,7 @@ $S:0}
 A.HA.prototype={
 H(a,b){return B.Ik}}
 A.wf.prototype={
-ai(){return new A.NJ(new A.aY(null,t.Ym),A.a7b(null),A.anq(),[],20,20,B.j)}}
+ai(){return new A.NJ(new A.aY(null,t.Ym),A.a7b(null),A.anq(),[],30,30,B.j)}}
 A.NJ.prototype={
 oo(){var s=this,r=s.cx
 if(r!=null){r.ap(0)
