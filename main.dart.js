@@ -66918,7 +66918,7 @@ $1(a){return A.aiG(a)},
 $S:89}
 A.jQ.prototype={
 H(a,b){var s=null
-return A.hV(s,s,A.bK(s,b.U(t.w).f.a.b>=650?A.eJ(A.b([A.YV("assets/images/title.png",B.fE,s,380),B.bo,B.Gv,B.JT,A.Y9(A.YV("assets/images/kids.png",B.fE,s,380),"imageHero")],t.p),B.y,B.ag,B.z):B.fj,B.eC,s,s,s,s,s,1/0),s,!1)}}
+return A.hV(s,s,A.bK(s,b.U(t.w).f.a.b>=650?A.eJ(A.b([A.YV("assets/images/title.png",B.fE,s,380),B.bo,B.Gv,B.JU,A.Y9(A.YV("assets/images/kids.png",B.fE,s,380),"imageHero")],t.p),B.y,B.ag,B.z):B.fj,B.eC,s,s,s,s,s,1/0),s,!1)}}
 A.Gx.prototype={}
 A.mX.prototype={
 ai(){return new A.NH(B.j)}}
@@ -66966,7 +66966,7 @@ try{s=t.rI.a(A.iE(b,t.X).b.b)
 r=A.c8(s.a+" \ud559\uc0dd \ud658\uc601\ud569\ub2c8\ub2e4.",o,o,o,o,o,o)
 r=A.uC(A.mZ(o,B.Cq,o,new A.a_U(b),o),r)
 q=A.bK(B.dO,A.Y9(A.YV("assets/images/kids.png",B.fE,150,o),"imageHero"),B.eC,o,o,150,o,o,1/0)
-r=A.hV(r,o,A.bK(o,n.b>=650?A.eJ(A.b([A.c8("< \ubb38\uc81c \uc218 : "+B.e.i(30)+" \uac1c >",o,o,o,B.NB,o,o),B.JU,A.cY(B.OE,new A.a_V(b,s),A.vN(o,o,o,o,o,o,o,o,o,o,B.fA,o,o,o,o,o,B.ld,o)),B.cV,A.cY(B.Oy,new A.a_W(b,s),A.vN(o,o,o,o,o,o,o,o,o,o,B.fA,o,o,o,o,o,B.ld,o)),B.cV,A.cY(B.Ov,new A.a_X(b,s),A.vN(o,o,o,o,o,o,o,o,o,o,B.fA,o,o,o,o,o,B.ld,o))],t.p),B.y,B.ag,B.z):B.fj,B.eC,o,o,o,o,o,1/0),q,o)
+r=A.hV(r,o,A.bK(o,n.b>=650?A.eJ(A.b([A.c8("< \ubb38\uc81c \uc218 : "+B.e.i(30)+" \uac1c >",o,o,o,B.NB,o,o),B.JT,A.cY(B.OE,new A.a_V(b,s),A.vN(o,o,o,o,o,o,o,o,o,o,B.fA,o,o,o,o,o,B.ld,o)),B.cV,A.cY(B.Oy,new A.a_W(b,s),A.vN(o,o,o,o,o,o,o,o,o,o,B.fA,o,o,o,o,o,B.ld,o)),B.cV,A.cY(B.Ov,new A.a_X(b,s),A.vN(o,o,o,o,o,o,o,o,o,o,B.fA,o,o,o,o,o,B.ld,o))],t.p),B.y,B.ag,B.z):B.fj,B.eC,o,o,o,o,o,1/0),q,o)
 return new A.rK(r,new A.a_Y(),o)}catch(p){r=A.hV(A.uC(o,B.le),o,A.bK(o,A.er(A.cY(B.hz,new A.a_Z(b),o),o,o),B.hp,o,o,o,o,o,o),o,o)
 return r}}}
 A.a_Y.prototype={
@@ -72824,8 +72824,8 @@ B.eM=new A.q(!0,null,null,null,null,null,null,B.bf,null,null,null,null,null,null
 B.Oq=new A.cn("< \ub0a8\uc740 \ubb38\uc81c >",null,B.eM,B.dD,null,null,null,null,null)
 B.HX=new A.bS(B.fB,B.Oq,null)
 B.vf=new A.dH(88,null,B.HX,null)
-B.JT=new A.dH(null,100,null,null)
-B.JU=new A.dH(null,15,null,null)
+B.JT=new A.dH(null,15,null,null)
+B.JU=new A.dH(null,180,null,null)
 B.bo=new A.dH(null,20,null,null)
 B.vg=new A.dH(null,30,null,null)
 B.cV=new A.dH(null,50,null,null)
