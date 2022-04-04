@@ -19915,7 +19915,7 @@ q=n.h(a,"name")
 if(q==null)q=""
 p=n.h(a,"table")
 if(p==null)p=""
-o=n.h(a,"highest_time_record")
+o=n.h(a,"fastest_time_record")
 if(o==null)o=""
 n=n.h(a,"attempts")
 return new A.lP(m,s,r,q,p,o,A.cT(A.IH(n==null?0:n,null)))},
@@ -66781,7 +66781,7 @@ $S:407}
 A.a0o.prototype={}
 A.lP.prototype={
 i(a){var s=this
-return"Student{id: "+s.a+", grade: "+s.b+", cls: "+s.c+", name: "+s.d+", table: "+s.e+", highestTimeRecord: "+s.f+", attempts: "+s.r},
+return"Student{id: "+s.a+", grade: "+s.b+", cls: "+s.c+", name: "+s.d+", table: "+s.e+", fastestTimeRecord: "+s.f+", attempts: "+s.r},
 gaw(a){return this.d}}
 A.a6G.prototype={
 hs(){var s=0,r=A.Q(t.My),q,p=this,o
@@ -66888,7 +66888,7 @@ var $async$rk=A.R(function(c,d){if(c===1)return A.N(d,r)
 while(true)switch(s){case 0:s=3
 return A.S(p.hs(),$async$rk)
 case 3:o=p.c
-q=o.gaH(o).ht(b,"highest_time_record",!1,a)
+q=o.gaH(o).ht(b,"fastest_time_record",!1,a)
 s=1
 break
 case 1:return A.O(q,r)}})
