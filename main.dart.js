@@ -67482,7 +67482,7 @@ $.ii().oe($.q6,n)
 $.ii().of($.q6)
 m=A
 s=2
-return A.S($.ii().nZ("highest_time_record",$.q6),$async$tF)
+return A.S($.ii().nZ("fastest_time_record",$.q6),$async$tF)
 case 2:p=m.Sz(c)
 o=q.cy
 if(p>o)$.ii().rk($.q6,B.d.i(o))
