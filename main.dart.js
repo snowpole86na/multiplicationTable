@@ -66927,7 +66927,7 @@ H(a,b){var s,r,q,p,o=null
 try{s=t.Y3.a(A.iE(b,t.X).b.b)
 r=A.uC(o,A.c8(s.a+" \ud559\uc0dd \uc751\uc6d0\ud569\ub2c8\ub2e4!",o,o,o,o,o,o))
 q=t.j
-q=A.eJ(A.b([B.OB,A.Gm(new A.ab8(),$.ii().kK(),q),B.vg,B.Or,A.Gm(new A.ab9(),$.ii().kK(),q),B.vg,B.OE,A.Gm(new A.aba(),$.ii().kK(),q),B.JV,A.Gm(new A.abb(s),$.ii().nZ("highest_time_record",$.q6),t.N)],t.p),B.y,B.ag,B.z)
+q=A.eJ(A.b([B.OB,A.Gm(new A.ab8(),$.ii().kK(),q),B.vg,B.Or,A.Gm(new A.ab9(),$.ii().kK(),q),B.vg,B.OE,A.Gm(new A.aba(),$.ii().kK(),q),B.JV,A.Gm(new A.abb(s),$.ii().nZ("fastest_time_record",$.q6),t.N)],t.p),B.y,B.ag,B.z)
 r=A.hV(r,o,A.bK(o,A.er(new A.K7(!0,new A.bS(B.C2,q,o),o),o,o),B.k,o,o,o,o,o,1/0),o,o)
 return r}catch(p){r=A.hV(A.uC(o,B.le),o,A.bK(o,A.er(A.cY(B.hz,o,new A.abc(b),o),o,o),B.hp,o,o,o,o,o,o),o,o)
 return r}}}
