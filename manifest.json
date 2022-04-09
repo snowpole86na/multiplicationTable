@@ -1,6 +1,6 @@
 {
-    "name": "plus_minus_table",
-    "short_name": "plus_minus_table",
+    "name": "multiplication_table",
+    "short_name": "multiplication_table",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#FFFFFF",
