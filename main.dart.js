@@ -67899,7 +67899,7 @@ if(l===0)m=A.et(p.z?B.bW:A.cn(A.a([A.bC("\ubb38\uc81c \uc218 : "+B.e.i(p.Q)+" \u
 else{s=A.p5(10)
 r=p.d?B.vV:B.vU
 q=t.p
-s=A.d4(A.a([new A.bB(B.mS,A.aik(A.bw(o,new A.z6(A.aie(A.bC(p.r.a.h(0,p.x[p.Q-l])[0],o,o,o,o,o,o),B.R,B.at,r),10,3,B.ct,p.e),o,o,o,60,o,B.mT,o),8,B.bB,B.hB,new A.eY(4,s,B.m4)),o),A.cn(A.a([B.vu,A.cS(new A.bB(B.fL,A.bC(": "+B.e.i(p.ch)+" \uac1c",o,o,o,B.eT,B.dF,o),o),o,88),A.cS(A.ajw(A.d1(A.bC(B.d.P(p.db,2)+"\ucd08",o,o,o,o,o,o),o,o,o),o,B.vT),o,88)],q),B.r,B.W,B.p)],q),B.r,B.a7,B.p)
+s=A.d4(A.a([new A.bB(B.mS,A.aik(A.bw(o,new A.z6(A.aie(A.bC(p.r.a.h(0,p.x[p.Q-l])[0],o,o,o,o,o,o),B.R,B.at,r),10,3,B.ct,p.e),o,o,o,60,o,B.mT,o),8,B.bB,B.hB,new A.eY(4,s,B.m4)),o),A.cn(A.a([B.vu,A.cS(new A.bB(B.fL,A.bC(": "+B.e.i(p.ch)+" \uac1c",o,o,o,B.eT,B.dF,o),o),o,88),A.cS(A.ajw(A.d1(A.bC(B.d.P(p.cx,2)+"\ucd08",o,o,o,o,o,o),o,o,o),o,B.vT),o,88)],q),B.r,B.W,B.p)],q),B.r,B.a7,B.p)
 r=A.a([$.akX()],t.VS)
 l=p.f
 q=A.cn(A.a([s,new A.bB(B.mO,A.cS(A.et(A.ajp(!0,B.bk,!0,o,l,o,o,o,2,B.ne,!0,!0,!0,o,!1,A.b(p.y,n),r,o,B.vM,2,!0,o,1,o,!1,"\u2022",new A.ac6(p),o,new A.ac7(p),o,!1,o,o,B.fJ,o,o,!1,o,o,o,B.vY,B.eR,o,B.lm,o,B.lo,o),o,o),70,m.a.a/4*3),o),new A.I5(75,B.tx,B.ty,l,A.b(p.y,n),new A.ac8(p),new A.ac9(p),o)],q),B.r,B.a7,B.p)
